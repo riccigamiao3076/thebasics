@@ -4,7 +4,17 @@ Flutter Basics
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+How to build a Flutter Website by FilledStacks on YouTube.
+https://youtube.com/playlist?list=PLdTodMosi-Bxf___3xPh3_NS-on4dc0sJ&si=tbo1uztMfL7D4Cd3
+
+Part 1. Building a Website in Flutter - Flutter Web Beginners Tutorial
+https://youtu.be/33kyEzDMTZU?si=EGlzYQTqFAO73x0o
+
+
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
